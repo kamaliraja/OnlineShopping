@@ -1,5 +1,5 @@
 package com.kamali.oops;
-//class Book 
+//created class book 
 public class Book {  
 	public static void main(String[] args) {
 		Book b1=new Book();
