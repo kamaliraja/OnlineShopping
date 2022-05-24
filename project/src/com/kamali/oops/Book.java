@@ -1,6 +1,6 @@
 package com.kamali.oops;
-
-public class Book {
+//class Book 
+public class Book {  
 	public static void main(String[] args) {
 		Book b1=new Book();
 		b1.m2();
